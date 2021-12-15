@@ -1,4 +1,4 @@
-package com.example.account_ms;
+package com.ecommercep5.account_ms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

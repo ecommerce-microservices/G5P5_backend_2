@@ -1,9 +1,9 @@
-package com.misiontic.backend_account_ms.controllers;
+package com.ecommercep5.account_ms.controllers;
 
-import com.misiontic.backend_account_ms.exceptions.TransactionNotFoundException;
-import com.misiontic.backend_account_ms.models.Account;
-import com.misiontic.backend_account_ms.repositories.AccountRepository;
-import com.misiontic.backend_account_ms.exceptions.AccountNotFoundException;
+import com.ecommercep5.account_ms.exceptions.TransactionNotFoundException;
+import com.ecommercep5.account_ms.models.Account;
+import com.ecommercep5.account_ms.repositories.AccountRepository;
+import com.ecommercep5.account_ms.exceptions.AccountNotFoundException;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
