@@ -1,6 +1,5 @@
 package com.ecommercep5.account_ms.controllers;
 
-import com.ecommercep5.account_ms.exceptions.TransactionNotFoundException;
 import com.ecommercep5.account_ms.models.Account;
 import com.ecommercep5.account_ms.repositories.AccountRepository;
 import com.ecommercep5.account_ms.exceptions.AccountNotFoundException;
